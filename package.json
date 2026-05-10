@@ -1,0 +1,34 @@
+{
+  "name": "messenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node ./backend/server.js",
+    "start": "nodemon ./backend/server.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "express-rate-limit": "^8.5.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.23.1",
+    "multer": "^2.1.1",
+    "nodemon": "^3.1.0",
+    "openai": "^6.37.0",
+    "react-icons": "^5.0.1",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.7.4",
+    "uuid": "^14.0.0",
+    "validator": "^13.15.35",
+    "zustand": "^4.5.2",
+    "zxcvbn": "^4.4.2"
+  }
+}
