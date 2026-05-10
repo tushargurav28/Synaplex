@@ -1,6 +1,7 @@
 # 🚀 Synaplex: The Future of AI-Driven Collaboration
 
-![Synaplex](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221005.png)
+![Synaplex](<img width="1918" height="969" alt="image" src="https://github.com/user-attachments/assets/129dd1ff-fa00-4025-a585-7221421b5a5b" />
+)
 
 ## 🌌 Project Vision
 **Synaplex** is not just another chat application; it is a high-performance, intelligence-first ecosystem designed specifically for **AI Intelligence and Messaging**, as well as seamless **Team + AI Collaboration**. Built with a premium "Glassmorphism" aesthetic and powered by advanced 3D animations, it provides the ultimate workspace for teams to build, secure, and deploy alongside specialized AI entities. 
