@@ -1,7 +1,6 @@
 # 🚀 Synaplex: The Future of AI-Driven Collaboration
 
-![Synaplex](<img width="1918" height="969" alt="image" src="https://github.com/user-attachments/assets/129dd1ff-fa00-4025-a585-7221421b5a5b" />
-)
+![Synaplex Login](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/login.png)
 
 ## 🌌 Project Vision
 **Synaplex** is not just another chat application; it is a high-performance, intelligence-first ecosystem designed specifically for **AI Intelligence and Messaging**, as well as seamless **Team + AI Collaboration**. Built with a premium "Glassmorphism" aesthetic and powered by advanced 3D animations, it provides the ultimate workspace for teams to build, secure, and deploy alongside specialized AI entities. 
@@ -97,9 +96,41 @@ docker-compose up --build
 
 ## 📸 Screenshots
 
-| Auth Dashboard | Chat Interface |
-|----------------|----------------|
-| ![Auth](images/Screenshot%202026-05-10%20at%2010.15.04%E2%80%AFPM.png) | ![Chat](images/Screenshot%202026-05-10%20at%2010.19.27%E2%80%AFPM.png) |
+### Authentication
+
+| Login | Signup |
+|-------|--------|
+| ![Login](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/login.png) | ![Signup](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/signup.png) |
+
+### Messaging & Collaboration
+
+| Create Group | Share Media |
+|--------------|-------------|
+| ![Create Group](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/create%20group.png) | ![Share Media](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/share%20media.png) |
+
+| View Images | Notifications |
+|-------------|---------------|
+| ![View Images](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/watch%20images.png) | ![Notifications](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/notifications.png) |
+
+### AI Features
+
+| AI Assistant | Personal AI Agent Chat |
+|--------------|------------------------|
+| ![AI Assistant](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/ai%20assistant.png) | ![Personal AI Agent Chat](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/ai%20agent%20personal%20chat.png) |
+
+| AI Agent Group Chat | Create Multiple Agents |
+|---------------------|------------------------|
+| ![AI Agent Group Chat](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/ai%20agent%20group%20chat.png) | ![Create Multiple Agents](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/create%20multiple%20agent.png) |
+
+### Calls & Profile
+
+| Calling | Call Logs |
+|---------|-----------|
+| ![Calling](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/calling.png) | ![Call Logs](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/call%20log.png) |
+
+| Profile Settings |
+|------------------|
+| ![Profile Settings](https://raw.githubusercontent.com/tushargurav28/Synaplex/main/images/edit%20profile%20settings.png) |
 
 ---
 
