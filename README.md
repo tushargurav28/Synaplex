@@ -6,6 +6,8 @@
 ## 🌌 Project Vision
 **Synaplex** is not just another chat application; it is a high-performance, intelligence-first ecosystem designed specifically for **AI Intelligence and Messaging**, as well as seamless **Team + AI Collaboration**. Built with a premium "Glassmorphism" aesthetic and powered by advanced 3D animations, it provides the ultimate workspace for teams to build, secure, and deploy alongside specialized AI entities. 
 
+Synaplex is the updated and expanded version of [Deployment-Messenger](https://github.com/tushargurav28/Deployment-Messenger), rebuilt with stronger collaboration features, AI-agent workflows, improved security practices, Docker support, and a more polished real-time messaging experience.
+
 This platform is the best place to collaborate and work with both humans and AI agents. It makes it incredibly easy to create, define, and deploy your own AI workforce, allowing you to get creative things done quickly and easily.
 
 ### 🤖 AI-Intelligence at the Core
@@ -49,8 +51,8 @@ We have ensured that the installation process is smooth for both normal local se
 ### 💻 Normal Local Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tushargurav28/Deployment-Messenger.git
-   cd Deployment-Messenger
+   git clone https://github.com/tushargurav28/Synaplex.git
+   cd Synaplex
    ```
 2. **Setup Backend:**
    Ensure you have Node.js and MongoDB installed locally.
@@ -74,8 +76,8 @@ We have ensured that the installation process is smooth for both normal local se
 ### 🐳 Docker Installation (Recommended)
 If you prefer a containerized approach without installing local dependencies:
 ```bash
-git clone https://github.com/tushargurav28/Deployment-Messenger.git
-cd Deployment-Messenger
+git clone https://github.com/tushargurav28/Synaplex.git
+cd Synaplex
 
 # Build and start all services via Docker Compose
 docker-compose up --build
@@ -97,7 +99,7 @@ docker-compose up --build
 
 | Auth Dashboard | Chat Interface |
 |----------------|----------------|
-| ![Auth](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221403.png) | ![Chat](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221346.png) |
+| ![Auth](images/Screenshot%202026-05-10%20at%2010.15.04%E2%80%AFPM.png) | ![Chat](images/Screenshot%202026-05-10%20at%2010.19.27%E2%80%AFPM.png) |
 
 ---
 
